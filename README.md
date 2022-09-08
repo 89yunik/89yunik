@@ -1,4 +1,6 @@
-### Junior Backend Developer 👋
+## Skills
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
 
 <!--
 **89yunik/89yunik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
