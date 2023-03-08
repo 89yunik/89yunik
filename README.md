@@ -4,6 +4,8 @@
 ## Skills
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/>  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
 
+## Links
+https://nickyoon.tistory.com/
 <!--
 **89yunik/89yunik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
